@@ -2552,10 +2552,10 @@
                                 <div class="wp-block-button">
                                     <a
                                         class="wp-block-button__link wp-element-button"
-                                        href="https://account.lionsclubs.org/Account/Login"
+                                        href="https://dashboard.lions306a2.lk/"
                                         target="_blank"
                                         rel="# noopener"
-                                        >International Login</a
+                                        >Dasboard Login</a
                                     >
                                 </div>
                             </div>
